@@ -1,6 +1,6 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week11: Deep Learning Part 3
+## Week11: Deep Learning Part 4
 
 This repository contains:
 
